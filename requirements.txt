@@ -3,3 +3,4 @@ streamlit_webrtc
 ultralytics
 opencv_python_headless
 numpy
+tornado==6.3.3
