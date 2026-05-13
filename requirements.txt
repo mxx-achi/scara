@@ -1,6 +1,6 @@
 streamlit
-streamlit_webrtc
+streamlit-webrtc
 ultralytics
-opencv_python_headless
+opencv-python-headless
 numpy
 tornado==6.3.3
