@@ -1,6 +1,9 @@
 streamlit
 streamlit-webrtc
-ultralytics
 opencv-python-headless
 numpy
-tornado==6.3.3
+ultralytics
+torch
+torchvision
+Pillow
+av
